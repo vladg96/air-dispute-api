@@ -1,24 +1,11 @@
 {
-  "flynas": {
-    "light": {
-      "refundable": false,
-      "change_fee_domestic": 125,
-      "change_fee_international": 150,
-      "baggage": "none"
-    },
-    "plus": {
-      "refundable": false,
-      "change_fee_domestic": 0,
-      "change_fee_international": 0,
-      "baggage": "30kg"
-    }
-  },
-  "saudia": {
+  "british-airways": {
     "economy": {
-      "refundable": true,
-      "change_fee_domestic": 50,
-      "change_fee_international": 100,
-      "baggage": "23kg"
+      "id": "british-airways-economy",
+      "refundable": false,
+      "change_fee_domestic": 100,
+      "change_fee_international": 200,
+      "baggage_policy": "1 checked bag included. Delayed or lost bags eligible for reimbursement under defined conditions."
     }
   }
 }

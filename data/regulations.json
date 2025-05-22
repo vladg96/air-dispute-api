@@ -1,10 +1,9 @@
 {
   "gaca": [
     {
-      "rule_id": "GACA-12",
-      "trigger": "flight_delay > 2h",
-      "entitlement": "Refreshments, communication",
-      "notes": "Passenger may request voucher or assistance",
+      "rule_id": "GACA-22",
+      "trigger": "baggage not delivered within 24h",
+      "entitlement": "Passenger is entitled to compensation and delivery of baggage.",
       "jurisdiction": "domestic"
     }
   ],
@@ -12,8 +11,7 @@
     {
       "rule_id": "MC-17",
       "trigger": "baggage lost",
-      "entitlement": "Up to 1,288 SDR compensation",
-      "notes": "Applies to international flights",
+      "entitlement": "Up to 1,288 SDR compensation for lost baggage.",
       "jurisdiction": "international"
     }
   ]
