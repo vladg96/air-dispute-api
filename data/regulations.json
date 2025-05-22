@@ -1,0 +1,20 @@
+{
+  "gaca": [
+    {
+      "rule_id": "GACA-12",
+      "trigger": "flight_delay > 2h",
+      "entitlement": "Refreshments, communication",
+      "notes": "Passenger may request voucher or assistance",
+      "jurisdiction": "domestic"
+    }
+  ],
+  "montreal": [
+    {
+      "rule_id": "MC-17",
+      "trigger": "baggage lost",
+      "entitlement": "Up to 1,288 SDR compensation",
+      "notes": "Applies to international flights",
+      "jurisdiction": "international"
+    }
+  ]
+}

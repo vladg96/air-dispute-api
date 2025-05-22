@@ -1,0 +1,24 @@
+{
+  "flynas": {
+    "light": {
+      "refundable": false,
+      "change_fee_domestic": 125,
+      "change_fee_international": 150,
+      "baggage": "none"
+    },
+    "plus": {
+      "refundable": false,
+      "change_fee_domestic": 0,
+      "change_fee_international": 0,
+      "baggage": "30kg"
+    }
+  },
+  "saudia": {
+    "economy": {
+      "refundable": true,
+      "change_fee_domestic": 50,
+      "change_fee_international": 100,
+      "baggage": "23kg"
+    }
+  }
+}
